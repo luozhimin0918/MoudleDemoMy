@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ModularSample</string>
+    <string name="module2">module2</string>
+    <string name="city">城市：</string>
+    <string name="wd">\n风向：</string>
+    <string name="ws">\n风级：</string>
+    <string name="time">\n发布时间：</string>
+    <string name="module1">module1</string>
+    <string name="from_module1fragment">来自Module1Fragment</string>
+    <string name="app">app壳</string>
+    <string name="to_mudule2">跳转mudule2</string>
+</resources>
